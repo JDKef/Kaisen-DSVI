@@ -1,0 +1,37 @@
+# Flutter and Dart generated output
+**/.dart_tool/
+**/.flutter-plugins-dependencies
+**/build/
+**/coverage/
+
+# Android and Gradle machine-local output
+**/.gradle/
+**/.cxx/
+**/local.properties
+**/captures/
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+
+# IDE transient files. Android Studio can recreate these when opening mobile/.
+**/.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+
+# Local credentials and signing material
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+**/key.properties
+**/*.jks
+**/*.keystore
+
+# Group handoff runtime arguments and packaged output
+/GROUP_RUN_ARGS.txt
+/GROUP_RUN_ARGS.local.txt
+/dist/
+
